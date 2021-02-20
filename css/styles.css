@@ -1,0 +1,111 @@
+/**** @Author: Francisco Zapata ****/
+
+
+/** Reset the document **/
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    scroll-snap-type: x mandatory;
+}
+
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+/** Custom Properties **/
+
+:root {
+    --blanco: #fff;
+    --negro: #000;
+    --grey1: #818181;
+    --grey2: ##2A292C;
+    --montserrat: 'Montserrat', sans-serif;
+    --poppins: 'Poppins', sans-serif;
+    --spacing: .3rem;
+}
+
+
+/** Globals **/
+
+body {
+    font-size: 16px;
+    font-family: var(--montserrat);
+}
+
+img {
+    width: 100%;
+}
+
+.tac {
+    text-align: center;
+}
+
+.contenedor {
+    width: 90%;
+    max-width: 110rem;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    .contenedor {
+        width: 80%;
+    }
+}
+
+
+/** HERO **/
+
+.hero {
+    height: 100vh;
+    padding: 15vh;
+}
+
+.drweb {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 15rem;
+    padding-bottom: 8rem;
+}
+
+.drweb__logo {
+    content: '';
+    background-image: url(../img/xdrweb.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 18rem;
+    width: 18rem;
+}
+
+.drweb__imagen {
+    content: '';
+    background-image: url(../img/drfcozapata.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+}
+
+.drweb__title {
+    font-size: 8rem;
+    color: var(--grey2);
+}
+
+.drweb__subtitle {
+    font-size: 6rem;
+    color: var(--grey1);
+    font-family: var(--poppins);
+    letter-spacing: var(--spacing);
+    padding-top: 2rem;
+}
