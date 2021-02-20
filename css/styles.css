@@ -107,5 +107,5 @@ img {
     color: var(--grey1);
     font-family: var(--poppins);
     letter-spacing: var(--spacing);
-    padding-top: 2rem;
+    padding-top: 1rem;
 }
