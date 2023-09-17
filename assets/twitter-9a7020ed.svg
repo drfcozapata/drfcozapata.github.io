@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="512"
+   viewBox="0 0 566.40002 512"
+   fill="#c4d4f0"
+   version="1.1"
+   id="svg3372"
+   sodipodi:docname="twitter.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   width="566.40002"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3376" />
+  <sodipodi:namedview
+     id="namedview3374"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.73472814"
+     inkscape:cx="262.00167"
+     inkscape:cy="268.80691"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3372" />
+  <!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+  <path
+     d="m 446.03078,0 h 86.8923 L 343.13847,216.86154 566.40001,512 H 391.63077 L 254.64616,333.04615 98.092317,512 H 11.076935 L 214.03078,279.99999 1.2207031e-5,0 H 179.20001 L 302.89232,163.56923 Z M 415.5077,460.06154 h 48.12308 L 152.98463,49.230769 h -51.69231 z"
+     id="path3370"
+     style="stroke-width:1.23077" />
+</svg>
